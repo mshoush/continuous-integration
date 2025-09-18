@@ -8,3 +8,4 @@ def add(x, y):
 print(add(1, 1))
 var=1
 var=var
+hi='hi'
